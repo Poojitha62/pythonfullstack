@@ -1,0 +1,14 @@
+.container{
+    
+    display: flex;
+}
+
+.fitem{
+
+    background-color: chartreuse;
+    border: 20px;
+    padding: 12px;
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+}
